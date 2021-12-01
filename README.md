@@ -1,26 +1,6 @@
-# React and Mocky
-
-Nessa aplicação nós utilizamos a [API do Rick](https://rickandmortyapi.com/) and Morty para buscar os personagens. O endpoint utilizado é o `[https://rickandmortyapi.com/api/character](https://rickandmortyapi.com/api/character)` 
-
-O objetivo é escrever os testes para a aplicação utilizando o RTL - React Testing Library. Todos os testes devem utilizar o `ByRole`
-  
-
-### Setup para os testes  
-  
-***A primeira coisa que deve ser feita antes de escrever os testes, é realizar o mock da função fetch.***   
-
-Esse mock deve ser feito dentro do `beforeEach()` antes de chamar a função `render(<App/>)`. A resposta da API que vai ser mockada está dentro da pasta `/tests/mocks.js`. Basta importar o `responseAPI` e utilizar da maneira que achar necessário.  
-  
-  
-    
-### Teste 1
-
-Verificar se ao renderizar o App aparece um card com um `h3` escrito "Rick Sanchez" dentro.  
-
-### Teste 2
-
-Verificar se ao renderizar o App está presente na tela o `input` de texto e o `button` com o texto "Buscar"  
-
-### Teste 3  
-
-Verificar se ao buscar pelo nome "smith" aparecem 4 cards na tela.
+1 - Nesta aplicação, são gerados cards de Rick and Morty e adicionado um input de texto para pesquisar os personagens vivos e mortos dentro do seriado.
+2 - A aplicação é feita em React.
+3 - É feita a partir de um exercicio desenvolvido durante o curso na Trybe.
+4 - O uso de API é testado também nesta aplicação.
+5 - É utilizado o .filter para fazer pesquisas dentro da aplicação e achar os personagens pelo nome.
+6 - Sua renderização é condicional a partir do carregamento da API, só é renderizado o conteúdo principal após a resposta da API.
