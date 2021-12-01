@@ -4,3 +4,5 @@
 4 - O uso de API é testado também nesta aplicação.
 5 - É utilizado o .filter para fazer pesquisas dentro da aplicação e achar os personagens pelo nome.
 6 - Sua renderização é condicional a partir do carregamento da API, só é renderizado o conteúdo principal após a resposta da API.
+
+Veja seu resultado em: https://danielhott.github.io/react-and-mocky/ !!
