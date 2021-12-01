@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-and-mocky/static/css/main.0e844011.chunk.css",
+    "main.js": "/react-and-mocky/static/js/main.073a035e.chunk.js",
+    "main.js.map": "/react-and-mocky/static/js/main.073a035e.chunk.js.map",
+    "runtime-main.js": "/react-and-mocky/static/js/runtime-main.6907f80b.js",
+    "runtime-main.js.map": "/react-and-mocky/static/js/runtime-main.6907f80b.js.map",
+    "static/js/2.8b4ea913.chunk.js": "/react-and-mocky/static/js/2.8b4ea913.chunk.js",
+    "static/js/2.8b4ea913.chunk.js.map": "/react-and-mocky/static/js/2.8b4ea913.chunk.js.map",
+    "static/js/3.db7d7b3f.chunk.js": "/react-and-mocky/static/js/3.db7d7b3f.chunk.js",
+    "static/js/3.db7d7b3f.chunk.js.map": "/react-and-mocky/static/js/3.db7d7b3f.chunk.js.map",
+    "index.html": "/react-and-mocky/index.html",
+    "static/css/main.0e844011.chunk.css.map": "/react-and-mocky/static/css/main.0e844011.chunk.css.map",
+    "static/js/2.8b4ea913.chunk.js.LICENSE.txt": "/react-and-mocky/static/js/2.8b4ea913.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6907f80b.js",
+    "static/js/2.8b4ea913.chunk.js",
+    "static/css/main.0e844011.chunk.css",
+    "static/js/main.073a035e.chunk.js"
+  ]
+}
