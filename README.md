@@ -4,7 +4,7 @@
 #### Veja seu resultado em: https://danielhott.github.io/react-and-mocky/ !!
 
 Nesta aplicação, são gerados cards de Rick and Morty e adicionado um input de texto para pesquisar os
-personagens vivos e mortos dentro do seriado. A aplicação é feita em React.
+personagens vivos e mortos dentro do seriado. A aplicação é feita para a prática de React.
 
 ## Layout
 
