@@ -6,6 +6,9 @@
 Nesta aplicação, são gerados cards de Rick and Morty e adicionado um input de texto para pesquisar os
 personagens vivos e mortos dentro do seriado. A aplicação é feita em React.
 
+## Layout
+
+![Web 1](https://github.com/DanielHott/AppFood/blob/master/media/Sem%20t%C3%ADtulo.png)
 
 ## Apêndice
 
