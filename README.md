@@ -14,7 +14,7 @@ Feito a partir de um exercicio desenvolvido durante o curso na Trybe. O uso de A
 
 ## Autores
 
-- [@DanielHott](https://github.com/DanielHott)
+- Após dar um fork e resolver os erros do código do exercicio, [@DanielHott](https://github.com/DanielHott)
 
 
 ## Rodando localmente
